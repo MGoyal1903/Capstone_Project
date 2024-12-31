@@ -4,19 +4,6 @@ Welcome to the **Financial Data Processing Project**! This project involves the 
 
 ---
 
-## 👥 Group Details
-
-| Name                  | Roll Number | Institute Email                | Personal Email                      | Contact Number |
-|-----------------------|-------------|--------------------------------|------------------------------------|----------------|
-| Rahul Verma            | G23AI2039   | g23ai2039@iitj.ac.in           | rahver0@gmail.com                  | 8386000097     |
-| Vidyut Bhaskar         | G23AI2128   | g23ai2128@iitj.ac.in           | vidyut.bhaskar@gmail.com           | 9866810752     |
-| Mayank Goyal           | G23AI2120   | g23ai2120@iitj.ac.in           | mayankgoyal19032000@gmail.com      | 8383802148     |
-| Atul Singh             | G23AI2104   | g23ai2104@iitj.ac.in           | atulsinghrajput95@gmail.com        | 8789672151     |
-| Suraj Mourya           | G23AI2116   | g23ai2116@iitj.ac.in           | surajmourya1805@gmail.com          | 6264089496     |
-| Aditya Kumar Bajpai    | G23AI2005   | g23ai2005@iitj.ac.in           | adityakumarbajpai@icloud.com       | 6386840651     |
-
----
-
 ## 🗂 Project Structure
 
 ### **Setup Initial Data Handling**
